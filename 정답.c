@@ -1,0 +1,43 @@
+#include <stdio.h>
+#include <memory.h>       
+
+int main(){
+    int x, i, j;
+    
+    int b[50][50]={0, };
+    int b1[50][50]={0, };
+    int qq=0;
+
+    printf("원하는 배열의 크기를 입력하세요." );
+    scanf("%d", &x);
+
+    for(i=0; i<x; i++){
+        for(j=0; j<x; j++){
+            qq++;
+            b[i][j]+=qq;
+        }}
+  
+    printf("\n  원본 배열\n");
+    for(i=0; i<x; i++){
+        for(j=0; j<x; j++){
+            printf("%3d ",b[j][i]);
+        }
+        printf("\n");
+    }
+     printf("\n 복사를 진행하겠습니다... ");
+
+     system("pause");
+
+     memcpy(b1,   b,   sizeof(b)); 
+
+     printf("\n");
+     printf("\n  복사된 배열\n");
+
+     for(i=0; i<x; i++){
+        for(j=0; j<x; j++){
+            printf("%3d ",b1[j][i]);
+        }
+        printf("\n");
+    }    
+}
+ 

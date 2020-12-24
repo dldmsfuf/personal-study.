@@ -1,0 +1,35 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <windows.h>
+
+#define RED 12
+#define WHITE 15
+
+#define LINE 6
+#define MAX (LINE*4)
+
+void textcolor(int color_number);
+void gotoxy(int x, int y);
+int baserand(int x, int y);
+
+void VerticalSet(int MAP[20][MAX]);
+void HorizonSet(int MAP[20][MAX]);
+
+void PrintLine(int MAP[20][MAX]);
+
+void LadderStart(int MAP[20][MAX],int Select);
+
+int main(void){
+
+	int MAP[20][MAX];
+	int Select;
+	printf("출발점 설정 (1~%d):",LINE);
+	scanf("%d",&Select);
+	Select--;
+	system("pause");
+	system("cls");
+
+	VerticalSet(MAP);
+
+https://pastebin.com/tYUJu8pG

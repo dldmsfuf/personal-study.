@@ -1,0 +1,25 @@
+000007 hwang sun su1        100 090 043
+000008 hwang man s          030 056 057
+000007 hwang sun su         100 090 043
+000008 hwang man su         030 056 057
+000010 kim in               078 099 078
+000011 moon huck ju         065 076 089
+000012 lee huui jki         100 012 043
+000013 kim jkim hn          060 060 061
+000014 seung yong un        100 100 100
+000015 kim ujik jkim        067 066 055
+000016 moon hjki hik        077 066 055
+000017 honh seyng ha        099 099 100
+000018 min yong sik         100 100 089
+000019 lee hayng ran        100 090 090
+000020 chu chang hua        090 100 089
+000021 kim seng min         088 099 088
+000022 lee hjuki jki        055 066 099
+000023 bae go pa            088 055 099
+000024 lee hjuki jki        100 100 100
+000025 o kim lee            087 045 010
+000026 kim jkiuh hjjj       067 060 056
+000027 lee hjik hjk         100 030 045
+000028 mom jik og           100 056 089
+000029 chbju hkim hhj       090 067 089
+000030 lee hjui jki         100 090 088  

@@ -1,0 +1,64 @@
+************************* * RECORD FILE * *************************
+===================================================================
+NO            NAME            KOR. ENG. MATH. TOTAL AVERAGE GRADE 
+===================================================================
+000007 hwang sun su1       hwang sun su1        100    90    43   233    77.0    c 
+
+
+ 000008 hwang man su     2    30    56    88    29.0    F 
+
+ 057
+ 000007 hwang sun su   100    90    43   233    77.0    F 
+
+
+ 000008 hwang man su    30    56    57   143    47.0    F 
+
+
+ 000010 kim in          78    99    78   255    85.0    B+
+
+
+ 000011 moon huck ju    65    76    89   230    76.0    F 
+
+
+ 000012 lee huui jki   100    12    43   155    51.0    F 
+
+
+ 000013 kim jkim hn     60    60    61   181    60.0    F 
+
+
+ 000014 seung yong u -858993460 -858993460 -858993460 1717986916 572662336.0    A+
+
+n        100 100 100
+    100 100 100
+    15 -858993460 -858993460 -1717986905 -572662272.0    F 
+
+kim ujik jkim        067  ik jkim        067     66    55    16   137    45.0    F 
+
+ moon hjki hik        077 hjki hik        077    66    55    17   138    46.0    F 
+
+ honh seyng ha        099 seyng ha        099    99   100    18   217    72.0    F 
+
+ min yong sik         100 ong sik         100   100    89    19   208    69.0    F 
+
+ lee hayng ran        100 ayng ran        100    90    90    20   200    66.0    F 
+
+ chu chang hua        090 hang hua        090   100    89    21   210    70.0    F 
+
+ kim seng min         088 eng min         088    99    88    22   209    69.0    F 
+
+ lee hjuki jki        055 juki jki        055    66    99    23   188    62.0    F 
+
+ bae go pa            088 o pa            088    55    99    24   178    59.0    F 
+
+ lee hjuki jki        100 juki jki        100   100   100    25   225    75.0    F 
+
+ o kim lee            087  lee            087    45    10    26    81    27.0    F 
+
+ kim jkiuh hjjj       067 kiuh hjjj       067    60    56    27   143    47.0    F 
+
+ lee hjik hjk         100 jik hjk         100    30    45    28   103    34.0    F 
+
+ mom jik og           100 ik og           100    56    89    29   174    58.0    F 
+
+ chbju hkim hhj       090  hkim hhj       090    67    89    30   186    62.0    F 
+
